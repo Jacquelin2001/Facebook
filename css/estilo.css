@@ -1,0 +1,134 @@
+#top{
+	position: absolute;
+	height: 100px;
+	background-color: #3b5998;
+	border:10px;
+    margin-top: -16px;
+	margin-left: -9px;
+	width: 1500px;
+}
+#face{
+	color: white;
+	background-color: #3b5998;
+	font-family: helvetica;
+	font-size: 50px;
+	position: absolute;
+	height: 25px;
+	width: 150px;
+	margin-top: 25px;
+	margin-left: 270px;
+}
+#cuadrito{
+	position: absolute;
+	height: 25px;
+	width: 150px;
+	background-color: white;
+	margin-top: 48px;
+	margin-left: 1000px;
+}
+#cuadrito2{
+	color: #BDBDBD;
+	font-size: 15px;
+	font-family: helvetica;
+	position: absolute;
+	height: 25px;
+	width: 150px;
+	background-color: white;
+	margin-top: 48px;
+	margin-left: 800px;
+}
+#entrar{
+    color: white;
+	background-color:blue;
+	font-family: helvetica;
+	font-size: 15px;
+	border:5px;
+	border-color: black;
+	position: absolute;
+	height: 25px;
+	width: 50px;
+	margin-top: 50px;
+	margin-left: 1300px;
+}
+
+.ley
+{
+	position: relative;
+	right:-245px;
+	margin-top: 90px;
+	color: black;
+	font-size: 19px;
+	font-family:helvetica;
+	
+}
+#foto{
+    width:600px;
+    height:200px;
+    position: absolute;
+    margin-top: 12px;
+	margin-left: 110px;
+	
+}
+.ley2
+{
+	position: relative;
+	right:-800px;
+	margin-top: -80px;
+	color: black;
+	font-size: 35px;
+	font-family:helvetica;
+	
+}
+
+.ley3
+{
+	position: relative;
+	right:-800px;
+	margin-top: -28px;
+	color: black;
+	font-size: 20px;
+	font-family:helvetica;
+	
+}
+
+#Nombre
+{
+	position: relative;
+	right:-800px;
+	width: 175px;
+	height: 35px;
+	margin-top: -28px;
+	font-size: 15px;
+	border-radius: 3px;
+	border:none;
+}
+
+
+#Apellido
+{
+	position: relative;
+	right:-815px;
+	width: 175px;
+	height: 35px;
+	margin-top: -28px;
+	font-size: 15px;
+	border-radius: 3px;
+	border:none;
+}
+#Correo{
+	position: absolute;
+	left:800px;
+	width: 370px;
+	height: 35px;
+	margin-top: 38px;
+	font-size: 15px;
+	border-radius: 3px;
+	border:none;
+}
+#info{
+	height: 300px;
+	width: 1000px;
+	background-color: transparent;
+	margin-top: 180px;
+	position: absolute;
+20
